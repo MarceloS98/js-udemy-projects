@@ -1,0 +1,8 @@
+Datos que muestra
+- Clima en: Ciudad
+- Grados en celcius
+- Max temp
+- min temp
+
+kelvin to celsius
+c = k - 273.15
